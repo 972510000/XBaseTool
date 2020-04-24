@@ -27,3 +27,4 @@ pod 'XBaseTool'
 ## License
 
 XBaseTool is available under the MIT license. See the LICENSE file for more info.
+ X项目的基础库,尽可能包含好的三方框架
