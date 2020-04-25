@@ -26,7 +26,7 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '972510000' => '972510000@qq.com' }
   #s.source           = { :git => 'https://github.com/972510000/XBaseTool.git', :tag => s.version.to_s }
-  s.source           = { :git => 'https://github.com/972510000/XBaseTool.git', :tag => 0.6.3 }
+  s.source           = { :git => 'https://github.com/972510000/XBaseTool.git', :tag => '0.6.3' }
 
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
