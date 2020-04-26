@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XBaseTool'
-  s.version          = '0.6.3'
+  s.version          = '0.6.5'
   s.summary          = 'A short description of XBaseTool.'
 
 # This description is used to generate tags and improve search results.
@@ -25,8 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '972510000' => '972510000@qq.com' }
-  #s.source           = { :git => 'https://github.com/972510000/XBaseTool.git', :tag => s.version.to_s }
-  s.source           = { :git => 'https://github.com/972510000/XBaseTool.git', :tag => '0.6.3' }
+  s.source           = { :git => 'https://github.com/972510000/XBaseTool.git', :tag => s.version.to_s }
 
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
